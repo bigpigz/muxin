@@ -89,7 +89,7 @@ body {
     height: 100%;
     overflow: hidden;
     position: absolute;
-    top: 0;
+    top: 0;<a href="http://www.miitbeian.gov.cn" class="webbackup"><img src="https://o1am219ni.qnssl.com/home/images/emblem.e09b9326.png" alt="">湘ICP备&nbsp;18009860号</a>
     left: 0;
 }
 
@@ -104,7 +104,7 @@ body {
 .contain .logo img {
     margin-top: 54px;
     margin-left: 200px;
-    vertical-align: bottom;
+    /*vertical-align: bottom;*/
 }
 
 .contain .logo h1 {
@@ -115,6 +115,12 @@ body {
     margin-left: 40px;
     font-family: "Source Han Sans CN","Microsoft YaHei",Arial;
     letter-spacing: 2px;
+}
+.contain .logo .logotext{
+    position: relative;
+    left: -10px;
+    top: -10px;
+    font-size: 30px;
 }
 
 .contain .right {
